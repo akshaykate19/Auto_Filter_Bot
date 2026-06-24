@@ -43,7 +43,7 @@
             "required": true
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1002361212072",
             "required": true
         },
         "AUTH_USERS": {
