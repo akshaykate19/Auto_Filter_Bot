@@ -19,15 +19,15 @@
     "repository": "https://github.com/DreamXBotz/Auto_Filter_Bot.git",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7326986438:AAHDatWwPhhhrjGOdX1hKyS6J0YVtCZRRj8",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "9091254",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "154b6d594e25554186f76b26d695ba93",
             "required": true
         },
         "CHANNELS": {
@@ -35,12 +35,12 @@
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "5122819277",
             "required": true
         },
         "PICS": {
-            "description": "Add some telegraph link of pictures .",
-            "required": false
+            "description": "https://i.ibb.co/j9gqntmP/x.jpg",
+            "required": true
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
